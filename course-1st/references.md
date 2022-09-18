@@ -4,7 +4,7 @@
 1) 3D Morphable Face Models—Past, Present, and Future.
 2）DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images.
 
-[3D Morphable Face Models—Past, Present, and Future]： https://github.com/YadiraF/DECA
+[3D Morphable Face Models—Past, Present, and Future](https://github.com/YadiraF/DECA)
 
 
 * 泛读：
