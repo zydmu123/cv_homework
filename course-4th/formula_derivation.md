@@ -1,11 +1,11 @@
 
 
 $$
-f=\|\max (X W, 0)-Y\|_F^2
+f=\||\max (X W, 0)-Y\||_F^2
 $$
 
 $$
-f=\|\hat{Y}-Y\|_F^2  \quad  \quad \quad  \hat{Y} = max(Z,0) \quad \quad  \quad Z = XW
+f=\||\hat{Y}-Y\||_F^2  \quad  \quad \quad  \hat{Y} = max(Z,0) \quad \quad  \quad Z = XW
 $$
 
 
