@@ -41,3 +41,13 @@ $(3)$ $\frac{\partial f}{\partial Y}$:
 $$
 \frac{\partial f}{\partial Y}=-2\left( \hat{Y}-Y \right)
 $$
+
+$(4)$ $Validation:$
+
+![236ac22ef798ae8b60a97f6c120a3cc](https://user-images.githubusercontent.com/111970347/196576422-ebdd6be8-fcf6-44f6-a9c9-4dc5ba8cb68d.png)
+
+
+
+
+
+
