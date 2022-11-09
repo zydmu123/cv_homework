@@ -13,9 +13,10 @@ $\quad \quad$ ![image](https://user-images.githubusercontent.com/111970347/20072
 
 
 ### 3. Results
-共训练50代，Best Epoch 为45，其峰值信噪比为37.69
+共训练50代，Best Epoch 为45，其峰值信噪比为37.69 \
 测试结果如下：
 ![1667960426115](https://user-images.githubusercontent.com/111970347/200721331-5d26e94f-bbcf-4308-b3bd-74fadf38d88a.png)
+
 左侧为低分辨率数据，右侧为测试表现
 
 
