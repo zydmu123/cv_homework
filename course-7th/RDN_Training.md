@@ -1,7 +1,7 @@
 ### 1. 选用超分网络
 
 * [Residual Dense Network for Image Super-Resolution] (https://arxiv.org/abs/1802.08797)
-
+* [DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images(SIGGRAPH 2021).](https://github.com/YadiraF/DECA)
 
 #### 1.1 The architecture of theresidual dense network (RDN)
 ![[1667958614802.png]]
