@@ -1,6 +1,6 @@
 ### 1. 选用超分网络
 
-* [Residual Dense Network for Image Super-Resolution.](https://arxiv.org/abs/1802.08797)
+* [Residual Dense Network for Image Super-Resolution(CVPR 2018).](https://arxiv.org/abs/1802.08797)
 
 
 #### 1.1 The architecture of theresidual dense network (RDN)
