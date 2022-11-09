@@ -3,7 +3,7 @@
 * [Residual Dense Network for Image Super-Resolution(CVPR 2018).](https://arxiv.org/abs/1802.08797)
 
 
-#### 1.1 The architecture of theresidual dense network (RDN)
+#### 1.1 The architecture of the residual dense network (RDN)
 ![1667960324531](https://user-images.githubusercontent.com/111970347/200721110-5800bcf7-3407-4f27-80f2-fdc303daeec7.png)
 $\quad \quad$ ![image](https://user-images.githubusercontent.com/111970347/200721170-f37393a3-74ae-41a5-94af-293c3e5a985a.png)
 
